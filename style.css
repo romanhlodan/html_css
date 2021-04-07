@@ -1,0 +1,165 @@
+.ssq{
+    list-style: lower-alpha;
+}
+.wws
+    list-style: square;
+}
+
+.text-snow{
+    color:white;
+}
+.italic{
+    font-style: italic;
+}
+.bol{
+   background-color;
+}
+#box{
+    width: 40%;
+    height:auto;
+    background-image: url(car.jpg);
+    padding: 5pt;
+    margin:10pt;        
+}
+#box2{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;
+    float: left;
+    position: relative;
+    top: -200pt;
+    left: 550pt;
+}
+#box3{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;
+    float: left;
+    position: relative;
+            
+}
+#box4{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;    
+    float:left;
+    position: relative;
+    top: 10pt;
+    left: 20pt;
+}
+#box5{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;
+    float:left;
+    position: relative;
+    top: -30pt;
+    left: 35pt;
+}    
+#box6{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;
+    float:left;
+    position: relative;
+    top: 200pt;
+    left: -400pt;
+}
+#box7{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;
+    float:left;
+    position: relative;
+    top: -100pt;
+    left: 40pt;
+}
+#box8{
+    width: 40%;
+    height:auto;
+    background-image: url(moto.jpg);
+    padding: 5pt;
+    margin:10pt;
+    text-indent: 50pt;
+    float:left;
+    position: relative;
+    top: -100pt;
+    left: 70pt;
+}
+h1{
+    color:aqua;
+}
+.text-center{
+    text-align: center;
+}
+h2{
+   color: red;
+}
+p{
+ color:bisque;
+}
+#car{
+ color: blue;
+}
+h3{
+    color:orange;
+}
+a{
+   color:orangered;
+}
+body{
+    background-image: url(road.jpg)
+}
+.st1{
+     position: relative;
+    left: 500pt;
+    font-size: 20pt;
+}
+.st2{
+     position: relative;
+    top: -23pt;
+    left: 515pt;
+    font-size: 20pt;
+}
+.st3{
+     position: relative;
+    top: 200pt;
+    left: 50pt;
+    font-size: 20pt;
+}
+.st4{
+     position: relative;
+    top: 177pt;
+    left: 63pt;
+    font-size: 20pt;
+}
+.st5{
+        position: relative;
+    top: 500pt;
+    left: -400pt;
+    font-size: 20pt;
+}
+.st6{
+    position: relative;
+    top: 477pt;
+    left: -385pt;
+    font-size: 20pt;
+}
